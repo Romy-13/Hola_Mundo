@@ -17,3 +17,5 @@ I like it :cat:, :dog:,
 Agregamos unas últimas lineas de lo que nos gusta
 
 Comando push
+
+Comando pull
