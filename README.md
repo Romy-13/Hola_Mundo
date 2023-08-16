@@ -15,3 +15,5 @@ I like it :chocolate_bar:,
 I like it :cat:, :dog:,
 
 Agregamos unas últimas lineas de lo que nos gusta
+
+Comando push
