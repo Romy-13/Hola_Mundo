@@ -16,4 +16,6 @@ I like it :cat:, :dog:,
 
 Agregamos unas últimas lineas de lo que nos gusta
 
+Trabajamos con el comando git pull:permite descargar los cambios realizados en forma remota en nuestro github, a nuestro repositorio local gitbash
+
 Comando push
