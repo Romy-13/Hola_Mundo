@@ -1,8 +1,8 @@
-Trabajamos con los comandos git pull:
-<<<<<<< HEAD
-descarga los archivos desde nuestro repositorio remoto.
-Comando fetch: 
-Permite visualizar las modificaciones de mi repositorio remoto en git bash
-Comando push:
-Permite subir todos lo cambios locales realizados y commiteados a git-hub
+
+Trabajamos con los comandos:
+git pull:
+descarga los archivos desde nuestro repositorio remoto
+Comando fetch:
+visualizamos en git bash las modificaciones creaciones de git hub
+
 
